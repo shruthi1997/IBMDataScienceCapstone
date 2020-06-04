@@ -1,0 +1,16 @@
+Travel Guide to a new City
+
+Introduction/Business Problem
+
+With two-thirds of the world’s population now connected by mobile devices, location data has emerged as one of the most powerful and important data sources. And with many location sites using crowd sourcing techniques, we get a lot of information about the most viewed places, its ratings, tips etc.
+A lot of times when we do travel to a new place/city, we tend to naturally plan everything including the best places to visit or the best restaurants/hotels available. But most of the times (in my travel experience) we forget or do not get enough resources (other than a manual travel guide) to plan the days we stay in the place. Travelling becomes so much more easier if we know all the places which are clustered together nearby to finish all of them at once, and also complete visiting as much places as possible in our timed stay in the new city.
+My solution intends to provide a solution to this problem
+
+Data used to solve the problem
+
+1. Intended place of visit
+2. Number of days of travel
+3. Get the top n places of visit in the city where n = (number of days of travel * number of places you want to visit per day)
+4. Use a clustering algorithm to cluster all nearby places together into x number of clusters (x = no. of days of travel)
+5. Calculate the distance between all places included in the cluster and time it would take for visiting each place, and give the user an approximate time they would take to finish the activities of that day
+6. If the user wants to change the number of places of visit per day, the process would be repeated
