@@ -5,6 +5,7 @@ Introduction/Business Problem
 With two-thirds of the world’s population now connected by mobile devices, location data has emerged as one of the most powerful and important data sources. And with many location sites using crowd sourcing techniques, we get a lot of information about the most viewed places, its ratings, tips etc.
 A lot of times when we do travel to a new place/city, we tend to naturally plan everything including the best places to visit or the best restaurants/hotels available. But most of the times (in my travel experience) we forget or do not get enough resources (other than a manual travel guide) to plan the days we stay in the place. Travelling becomes so much more easier if we know all the places which are clustered together nearby to finish all of them at once, and also complete visiting as much places as possible in our timed stay in the new city.
 My solution intends to provide a solution to this problem
+Target audience: For people who love to travel but are not much experienced in travelling. It would also be of a huge help for experieced travellers
 
 Data used to solve the problem
 
